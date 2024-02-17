@@ -1,0 +1,22 @@
+body{
+    background: #111113;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  article{
+    background: #F5F5F5;
+    max-width: 400px;
+    padding: 32px;
+    border-radius: 4px;
+  }
+  
+  article button{
+    background: #111113;
+    height: 48px;
+    padding: 0 32px;
+    color: #ffffff;
+    border-radius: 4px;
+  }

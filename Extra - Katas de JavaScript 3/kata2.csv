@@ -1,0 +1,7 @@
+array;i;i >= 1;i--;array.push(i)
+[];25;true;25;array.push(25)
+[25];24;true;24;array.push(24)
+[25, 24];23;true;23;array.push(23)
+[25, 24, 23];22;true;22;array.push(22)
+[25,24,23,22];21;true;21;array.push(21)
+[25, 24, 23, 22, 21];20;true;20;array.push(20)
